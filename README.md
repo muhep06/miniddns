@@ -4,7 +4,7 @@ An Easy to Use ESP8266 NameCheap DDNS Update Client Library.
 
 ## Getting Started
 
-*This Dynamic DDNS Update Client only for NameCheap*
+*This Dynamic DDNS Update Client only for NameCheap Domains*
 
 This library is created to update your NameCheap DDNS Domains with your ESP8266.
 
