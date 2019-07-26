@@ -10,9 +10,7 @@ This library is created to update your NameCheap DDNS Domains with your ESP8266.
 
 **Only for ESP8266**
 
-### Prerequisites
-
-What things you need to install the software and how to install them
+### What we need?
 
 ```
 - Platformio core
